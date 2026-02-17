@@ -1,9 +1,10 @@
 <img width="1150" height="647" alt="image" src="https://github.com/user-attachments/assets/5e577ce6-2464-4528-a359-fbb78f6b334e" />
 
+## United states:High Income Developers
 
 <img width="1151" height="656" alt="image" src="https://github.com/user-attachments/assets/89bea6bf-4ce8-499b-a255-8715d29101b1" />
 
-
+## India: High Income Developer
 
 <img width="1155" height="637" alt="image" src="https://github.com/user-attachments/assets/9bc72e92-c40f-4e7e-abf5-cbbc6112a182" />
 
