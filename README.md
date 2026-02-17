@@ -35,8 +35,8 @@ Based on the analysis of 65,000+ developer records:
 
 ## Major Findings:
 
-Experience is Key: Professional maturity (YearsCodePro) and Job Role (DevType) are the primary drivers for salary growth, more so than formal education alone.
+* **Experience is Key**: Professional maturity (YearsCodePro) and Job Role (DevType) are the primary drivers for salary growth, more so than formal education alone.
 
-Role Density: High-income clusters show a significant density of Full-stack and Back-end developers with 2-10 years of experience.
+* **Role Density**: High-income clusters show a significant density of Full-stack and Back-end developers with 2-10 years of experience.
 
-Global Trends: Visualized clear compensation gaps between different geographical regions and clusters.
+* **Global Trends**: Visualized clear compensation gaps between different geographical regions and clusters.
