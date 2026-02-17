@@ -1,4 +1,13 @@
 <img width="1150" height="647" alt="image" src="https://github.com/user-attachments/assets/5e577ce6-2464-4528-a359-fbb78f6b334e" />
+
+
+<img width="1151" height="656" alt="image" src="https://github.com/user-attachments/assets/89bea6bf-4ce8-499b-a255-8715d29101b1" />
+
+
+
+<img width="1155" height="637" alt="image" src="https://github.com/user-attachments/assets/9bc72e92-c40f-4e7e-abf5-cbbc6112a182" />
+
+
 # Developer Salary & Experience Clustering Analysis
 
 ## Project Overview
@@ -12,3 +21,10 @@ This project uses the **2024 Stack Overflow Developer Survey** data (65,000+ res
 ## Tools Used
 - **Power BI:** Data Cleaning (Power Query), ETL, and Dashboarding.
 - **Machine Learning:** K-Means Clustering & Silhouette Analysis.
+## Conclusion & Key Findings
+
+Based on the analysis of 65,000+ developer records:
+* **Experience & Pay**: There is a strong positive correlation between 'YearsCodePro' and salary, particularly in the High-Income cluster.
+* **Clustering Success**: The data naturally split into two distinct groups, with the High-Income group averaging **$151.85K** compared to **$42.48K** in the Low-Income group.
+* **Education**: While a Bachelor's degree is most common, higher education levels show a higher density in the top-earning clusters.
+* **Accuracy**: The **Silhouette Score** validates that the groupings created via Python are distinct and reliable.
